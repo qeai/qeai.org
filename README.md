@@ -11,7 +11,13 @@ Quantum computing is the design of hardware and software that replaces Boolean l
 
 I am (Tanase Laurentiu) particularly interested in applying quantum computing to artificial intelligence and machine learning. This is because many tasks in these areas rely on solving hard optimization problems or performing efficient sampling.
 
-[![Quantum Computing](https://img.youtube.com/vi/cOUrzxyng04/0.jpg)](https://www.youtube.com/watch?v=cOUrzxyng04)
+### IBM Quantum Experience - User guides
+
+[![User guides](https://i.imgur.com/627hlnM.gif)](https://github.com/QISKit/ibmqx-user-guides)
+
+### IBM Quantum Experience - Composer
+
+[![Composer](https://i.imgur.com/mYVFeq1.jpg)](https://quantumexperience.ng.bluemix.net/qx/editor)
 
 ### More about QEAI.ORG
 
