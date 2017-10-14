@@ -1,8 +1,3 @@
-
-## QEAI.ORG
-
-### QEAI = Quantum Entanglement + Artificial Intelligence (Quantum Machine Learning)
-
 Quantum Computing merges two great scientific revolutions of the 20th century: computer science and quantum physics.
 
 Quantum physics is the theoretical basis of the transistor, the laser, and other technologies which enabled the computing revolution. But on the algorithmic level today's computing machinery still operates on "classical" Boolean logic.
